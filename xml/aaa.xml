@@ -1,0 +1,22 @@
+<root>
+<product>
+<name>iphone</name>
+<price>4000</price>
+<desc></desc>
+</product>
+<product>
+    <name>男装</name>
+    <price>400</price>
+    <desc>精美</desc>
+</product>
+<product>
+    <name>女装</name>
+    <price>4000</price>
+    <desc>促销</desc>
+</product>
+<product>
+    <name>童装</name>
+    <price>4000</price>
+    <desc>高端</desc>
+</product>
+</root>
